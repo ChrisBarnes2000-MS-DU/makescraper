@@ -43,7 +43,7 @@ _Complete each task in the order they appear. Use [GitHub Task List](https://hel
 #### Scraping
 
 - [X] **IMPORTANT**: Complete the Web Scraper Workflow worksheet distributed in class.
-- [ ] Create a `struct` to store your data.
+- [X] Create a `struct` to store your data.
 - [ ] Refactor the `c.OnHTML` callback on line `16` to use the selector(s) you tested while completing the worksheet.
 - [ ] Print the data you scraped to `stdout`.
 
